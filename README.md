@@ -1,6 +1,8 @@
 
 # Loan Approval Prediction - Exploratory Data Analysis
 
+![Data Science Project Illustration](img.png)
+
 ## Project Overview
 This project focuses on **exploratory data analysis (EDA)** to understand the factors influencing loan approval predictions. The dataset contains various details about loan applicants, such as marital status, applicant income, credit history, and requested loan amount.
 
